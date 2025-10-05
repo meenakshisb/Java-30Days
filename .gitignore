@@ -1,12 +1,10 @@
-# Eclipse system files
-
-bin/
-.settings/
 .classpath
 .project
+settings/
 
+bin/
 
-# OS files
-Thumbs.dB
+Thumbs.db
 .DS_Store
 
+Day1 - Calculator.txt
