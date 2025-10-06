@@ -1,0 +1,10 @@
+.classpath
+.project
+settings/
+
+bin/
+
+Thumbs.db
+.DS_Store
+
+Day1 - Calculator.txt
