@@ -19,9 +19,9 @@ This repo contains my daily coding practice projects in java.Each day I will upl
 - ---
 
 ### Goals
-Improve problem-solving skills
-Build consistency with coding
-Share my learning journey publicly
+-Improve problem-solving skills
+-Build consistency with coding
+-Share my learning journey publicly
 
 ---
 
